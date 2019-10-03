@@ -8,7 +8,7 @@ My strategy is pick a topic and start solving the fundamental questions of that 
 I'll take part in codechef contest as well side by side but don't expect to perform excellent form myself.
 
 # FIRST TOPIC : DYNAMIC PROGRAMMING
-
+## Tutorials
 
 # SECOND TOPIC: GRAPHS
 a. DFS
