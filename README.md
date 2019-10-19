@@ -14,4 +14,4 @@ a.https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI
 
 
 # SECOND TOPIC: GRAPHS
-a. DFS
+a. BFS
